@@ -1,13 +1,13 @@
 # My Machine Learning Journey: Principles, Projects, and Progress
 
-This repository documents my ongoing journey in machine learning. It serves as a foundational hub for everything I learn and build, as I continue to develop algorithms and sharpen my skills in this dynamic field.  
+This repository documents my ongoing journey in machine learning. It serves as a foundational hub for everything I learn, and explore—anchored by a commitment to designing scalable, reliable systems that make machine learning robust and impactful in the real world.  
 
 ---
 
 ## 🌟 Features
 
 - Automated data preprocessing (handling missing values, scaling, encoding categorical variables).  
--  classification models for churn prediction (Logistic Regression, Random Forest, etc.).  
+- classification models (Logistic Regression, Random Forest, etc.).  
 - Evaluation metrics for model performance (e.g., Accuracy, Precision, Recall, F1-Score).  
 - Modular design using `Pipeline` and `GridSearchCV` for hyperparameter tuning.
 
