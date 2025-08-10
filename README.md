@@ -21,8 +21,8 @@ The datasets used for these algorithms can be downloaded manually or by executin
 
 ## 🛠️ Technologies Used
 
-- Python (3.8 or above)  
-- Pandas & NumPy  
+- Python
+- Pandas, NumPy, Matplotlib, & Seaborn
 - Scikit-learn
 - Pipeline
 - ColumnTransformer
